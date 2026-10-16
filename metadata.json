@@ -1,0 +1,6 @@
+{
+  "name": "Aurelle Travel",
+  "description": "Bespoke luxury journeys, extraordinary private destinations, curated experiences, and personalized escapes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
